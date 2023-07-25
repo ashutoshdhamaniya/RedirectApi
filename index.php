@@ -4,9 +4,6 @@
 <title>Redirect API</title>
 </head>
 <body>
-
-<h1>Heading</h1>
-<p>This</p>
-
+<p> <?php echo "welcome" ?> </p>
 </body>
 </html>
